@@ -1,0 +1,12 @@
+[{
+    "triggers": [
+        "^\\.hyperion"
+    ],
+    "response": ["Hyperion is a side plugin for ProjectKorra which aims to create high quality, optimized abilities with an emphasic on mechanics.",
+    "It is currently maintained by Moros and is available via Github. Click the button below for the link."
+    ],
+    "buttons": [
+        "GitHub Page",
+        "https://github.com/PrimordialMoros/Hyperion"
+    ]
+}]

@@ -1,7 +1,7 @@
 [{
     "triggers": [
         "^\\.aternos",
-        "(how.+(can|do).+(i|you)|is.+there.+(a |any ?)way).+(install|get|upload|add).+(add( |-)?ons|jedcore).+(in|on|to).+aternos"
+        "(what.+(addons|abilities|stuff|things|side plugins).+(should.+(i|we)|do.+you).+(add|put|recommend).+(on|to).+my.+server"
     ],
     "response": "Unfortunately, Aternos does not allow you to upload any jar files to the server. This means you cannot install the latest version of ProjectKorra, JedCore or any custom abilities for ProjectKorra.\n\nWe recommend using another host instead. You can either\n- Self Host (Host it on your own computer)\n- Use Falix\n- Use MineStrator\n- Use FreeMCServer\n- Use MCServerHost",
     "buttons": [
@@ -16,9 +16,9 @@
         "MCServerHost",
         "https://www.mcserverhost.com/",
         "Play Hosting",
-        "https://play.hosting/"
+        "https://play.hosting/",
         "More Free Servers",
-        "https://geekflare.com/hosting/free-minecraft-server-hosting/#:~:text=Free%20Minecraft%20Server%20Hosting%20Compared%20%282025%29%201%20Aternos,Best%20for%20Small%2C%20Private%20Servers%20...%20Meer%20items",
+        "https://geekflare.com/hosting/free-minecraft-server-hosting/#:~:text=Free%20Minecraft%20Server%20Hosting%20Compared%20%282025%29%201%20Aternos,Best%20for%20Small%2C%20Private%20Servers%20...%20Meer%20items"
     ]
 },
 {
@@ -39,8 +39,8 @@
         "MCServerHost",
         "https://www.mcserverhost.com/",
         "Play Hosting",
-        "https://play.hosting/"
+        "https://play.hosting/",
         "More Free Servers",
-        "https://geekflare.com/hosting/free-minecraft-server-hosting/#:~:text=Free%20Minecraft%20Server%20Hosting%20Compared%20%282025%29%201%20Aternos,Best%20for%20Small%2C%20Private%20Servers%20...%20Meer%20items",
+        "https://geekflare.com/hosting/free-minecraft-server-hosting/#:~:text=Free%20Minecraft%20Server%20Hosting%20Compared%20%282025%29%201%20Aternos,Best%20for%20Small%2C%20Private%20Servers%20...%20Meer%20items"
     ]
 }]

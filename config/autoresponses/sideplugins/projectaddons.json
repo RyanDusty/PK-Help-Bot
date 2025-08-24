@@ -1,0 +1,13 @@
+[{
+    "triggers": [
+    "^\\.projectaddons"
+    ],
+    "response": [
+        "ProjectAddons is a side plugin for ProjectKorra which adds a variety of new abilities.",
+        "ProjectAddons is currently available through Github, and can be found by pressing on the button below."
+    ],
+    "buttons": [
+        "GitHub Page",
+        "https://github.com/Simplicitee/ProjectAddons"
+    ]
+}]

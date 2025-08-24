@@ -1,0 +1,18 @@
+[{
+    "triggers": [
+        "^\\.starterpack",
+        "(what.+(addons|abilities|stuff|things|side plugins).+(should)+(i|do).+(add|put|you).+(recommend?|on).+(my).+server)"
+    ],
+    "response": [
+        "There are several addons for ProjectKorra which add various new abilities. The big three we recommend are: Jedcore, ProjectAddons and Hyperion.",
+        "Other side plugins/abilities can be found on the ProjectKorra [forums](https://projectkorra.com/forum/forums/)."
+    ],
+    "buttons": [
+        "Jedcore",
+        "jedcore.json",
+        "ProjectAddons",
+        "projectaddons.json",
+        "Hyperion",
+        "hyperion.json"
+    ]
+}]
